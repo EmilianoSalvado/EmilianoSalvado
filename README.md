@@ -2,7 +2,7 @@
 I'm a 24 years old student eager to learn and gain professional experience.<br>- 2 years in a videogames programming and design career.<br>- 3 years working on personal projects with Unity and C#.<br>- Looking forward to learn Unreal Bluerints and C++ along with GODOT and GDScript.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/EmilianoSalvado](https://www.linkedin.com/in/emiliano-salvado-9858362a5/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-salvado-9858362a5/) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
