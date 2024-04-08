@@ -13,7 +13,7 @@
 ###
 
 Buenos Aires, Argentina.<br>
-Studyingvideo games programming and design since 2021.<br>
+Studying videogames programming and design since 2021.<br>
 My current short term goals are to get my first job so I can gain real professional experience and learn new languages and technologies on top of getting better at what I already do.<br>
 
 ###
