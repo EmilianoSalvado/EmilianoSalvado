@@ -12,9 +12,9 @@
 
 ###
 
-Buenos Aires, Argentina.<br>
-Studying videogames programming and design since 2021.<br>
-My current short term goals are to get my first job so I can gain real professional experience and learn new languages and technologies on top of getting better at what I already do.<br>
+- 🌎 Buenos Aires, Argentina.<br>
+- 📚 Studying videogames programming and design since 2021.<br>
+- 🎯 My current short term goals are to get my first job so I can gain real professional experience and learn new languages and technologies on top of getting better at what I already do.<br>
 
 ###
 
@@ -39,9 +39,9 @@ My current short term goals are to get my first job so I can gain real professio
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="godot logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="godot logo"  />
 </div>
 
 ##
